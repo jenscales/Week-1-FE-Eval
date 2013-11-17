@@ -1,0 +1,36 @@
+/*This is the css style sheet used for asian market website*/
+
+body {
+ font-family: 'Karla', sans-serif;
+  font-size: 12px;
+}
+
+/*Used for all the titles on each page*/
+h1.header {
+	font-family: 'Shojumaru', cursive;
+}
+
+/*Used for the smaller hearers with paragraphs*/
+h3.header {
+	font-family: 'Karla', sans-serif;
+}
+
+h4.header {
+	font-family: 'Karla', sans-serif;
+}
+
+p {
+	font-size: 14px;
+}
+
+/*Used with the dragon image, but may not be necessary.  Need to Test next week.*/
+h1.header.span {
+	display: inline; 
+	float:left;
+
+}
+
+/*This is the orange button for email and submitting orders*/
+div.row.button-group {
+	color: #FF8000;
+}
