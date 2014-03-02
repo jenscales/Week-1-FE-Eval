@@ -1,22 +1,22 @@
 /*This is the css style sheet used for asian market website*/
 
 body {
- font-family: 'Karla', sans-serif;
+ font-family: 'Roboto', sans-serif;
   font-size: 12px;
 }
 
 /*Used for all the titles on each page*/
 h1.header {
-	font-family: 'Shojumaru', cursive;
+	font-family: 'Paprika', cursive;
 }
 
 /*Used for the smaller hearers with paragraphs*/
 h3.header {
-	font-family: 'Karla', sans-serif;
+	font-family: 'Paprika', sans-serif;
 }
 
 h4.header {
-	font-family: 'Karla', sans-serif;
+	font-family: 'Paprika', sans-serif;
 }
 
 p {
